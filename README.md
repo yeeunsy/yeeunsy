@@ -62,7 +62,10 @@
 	
 </div>
 
-[![Discord Badge](http://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=github&link=https://discord.gg/ksk)](https://discord.gg/ksk)
+[![Discord Badge](http://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=github&link=https://discord.gg/s7YNekny)](https://discord.gg/s7YNekny)   
+길가다 만난 사이
+[![Discird Badge](http://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=github&link=https://discord.gg/gamecommunity)](https://discord.gg/gamecommunity)   
+GCM 종합게임커뮤니티
 	
   [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCkSrDgvIJn1mUuztTFJ-jbg/featured)](https://www.youtube.com/channel/UCkSrDgvIJn1mUuztTFJ-jbg/featured)
 	
