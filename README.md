@@ -64,7 +64,7 @@
 
 [![Discord Badge](http://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=github&link=https://discord.gg/ksk)](https://discord.gg/ksk)
 	
-  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCZGCWv7ncrHt2tlXa0y92rA)](https://www.youtube.com/channel/UCZGCWv7ncrHt2tlXa0y92rA)
+  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCkSrDgvIJn1mUuztTFJ-jbg/featured)](https://www.youtube.com/channel/UCkSrDgvIJn1mUuztTFJ-jbg/featured)
 	
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:theleilaalice@gmail.com)](mailto:theleilaalice@gmail.com)
 
