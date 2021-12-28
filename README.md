@@ -56,3 +56,16 @@
 ### TODO
 **새로운것**을 배우는건 언제나 즐거운 일입니다. <br/>
 
+<div align=center>
+	
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKaizer1111&count_bg=%2379C83D&title_bg=%23555555&icon=python.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98+%3A+&edge_flat=false)](https://hits.seeyoufarm.com)
+	
+</div>
+
+[![Discord Badge](http://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=github&link=https://discord.gg/ksk)](https://discord.gg/ksk)
+	
+  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCZGCWv7ncrHt2tlXa0y92rA)](https://www.youtube.com/channel/UCZGCWv7ncrHt2tlXa0y92rA)
+	
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:theleilaalice@gmail.com)](mailto:theleilaalice@gmail.com)
+
+[![yeeunsy's github stats](https://github-readme-stats.vercel.app/api?username=yeeunsy)](https://github.com/anuraghazra/github-readme-stats)
