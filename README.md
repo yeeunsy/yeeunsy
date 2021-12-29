@@ -65,8 +65,6 @@
 [![Discord Badge](http://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=github&link=https://discord.gg/s7YNekny)](https://discord.gg/s7YNekny) - 길가다 만난 사이   
 [![Discird Badge](http://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=github&link=https://discord.gg/gamecommunity)](https://discord.gg/gamecommunity) - GCM 종합게임커뮤니티   
 	
-  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCkSrDgvIJn1mUuztTFJ-jbg/featured)](https://www.youtube.com/channel/UCkSrDgvIJn1mUuztTFJ-jbg/featured)
-	
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:theleilaalice@gmail.com)](mailto:theleilaalice@gmail.com)
 
 [![yeeunsy's github stats](https://github-readme-stats.vercel.app/api?username=yeeunsy)](https://github.com/anuraghazra/github-readme-stats)
