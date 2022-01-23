@@ -2,7 +2,6 @@
 
 ## 소개
 ![profile]()
-![FA5FD953-ABA6-4DD1-9FCF-3D915E893560_Original](https://user-images.githubusercontent.com/90146746/150693720-684dffe2-f8ab-4f7b-84b3-d5a58789cbf4.jpg)
 
 - 이름 : 이예은
 - Email : theleilaalice@gmail.com
