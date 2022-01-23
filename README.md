@@ -2,6 +2,8 @@
 
 ## 소개
 ![profile]()
+![FA5FD953-ABA6-4DD1-9FCF-3D915E893560_Original](https://user-images.githubusercontent.com/90146746/150693720-684dffe2-f8ab-4f7b-84b3-d5a58789cbf4.jpg)
+
 - 이름 : 이예은
 - Email : theleilaalice@gmail.com
 
@@ -11,10 +13,7 @@
 <br />
 
 ```
-현재:
-- 경력 쌓는 중..
-- 공학 영어 공부중
-- 학점은행제 수강 준비중
+현재 : 구직 활동 중
 ```
 
 ---
@@ -57,20 +56,13 @@
 
 # Development_log - 개발일지
 ### TODO
-**새로운것**을 배우는건 언제나 즐거운 일입니다. : )<br/>
+**새롭게 시도하고 프로세스 만드는 것**을 좋아합니다. : ) <br/>
 
 ---
 ## 모바일 프로젝트   <br/>
 
 ### - Unity를 이용한 2D, 3D 게임   
-#### AR Foundation - AR Program (진행 중)   
-https://github.com/yeeunsy/WE.ARE_AR.Project   <br/>
-
-#### Defense Game (진행 중)   
+#### Defense Game  
 https://github.com/yeeunsy/Kritias   
-
-## 팀 프로젝트   <br/>
-#### 학사 관리 프로그램   
-https://github.com/josuehyeon/ProjectTest   <br/>
 
 <img width="1240px" height="auto" align="center" src="https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90">
