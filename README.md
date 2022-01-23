@@ -1,7 +1,7 @@
 <img width="1240px" height="auto" align="center" src="https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=150&section=header&fontSize=90">
 
 ## 소개
-![profile](./resume/resume.PNG)
+![profile](./resume/resume.jpg)
 
 - 이름 : 이예은
 - Email : theleilaalice@gmail.com
