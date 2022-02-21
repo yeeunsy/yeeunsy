@@ -50,10 +50,5 @@
 ## 형상 관리
 - github <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
----
-
-# Development_log - 개발일지
-### TODO
-**새롭게 시도하고 프로세스 만드는 것**을 좋아합니다. : ) <br/>
 
 <img width="1240px" height="auto" align="center" src="https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90">
