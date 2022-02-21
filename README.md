@@ -56,11 +56,4 @@
 ### TODO
 **새롭게 시도하고 프로세스 만드는 것**을 좋아합니다. : ) <br/>
 
----
-## 모바일 프로젝트   <br/>
-
-### - Unity를 이용한 2D, 3D 게임   
-#### Defense Game  
-https://github.com/yeeunsy/Kritias   
-
 <img width="1240px" height="auto" align="center" src="https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90">
