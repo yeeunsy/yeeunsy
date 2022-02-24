@@ -1,9 +1,8 @@
 <img width="1240px" height="auto" align="center" src="https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=150&section=header&fontSize=90">
 
-## 소개
+## 소개 Contact.
 
 - 이름 : 이예은
-# Contact.
 - Email : theleilaalice@gmail.com
 - Resume : https://www.notion.so/yeeunsy/Yeeunsy-aa345950ae874367b299b2264e9419c1
 
@@ -54,15 +53,14 @@
 
 ---
 
-# Work / Other Experience.
+# Experience / Project.
 
 Use.{<br/>
-  Unity<br/>
-  Bolt4<br/>
-  vs studio<br/>
-  c#<br/>
+ Unity<br/>
+ Bolt4<br/>
+ vs studio<br/>
+ c#<br/>
 }<br/>
-<br/>
 
 ![resumeset1-_online-video-cutter com_](https://user-images.githubusercontent.com/90146746/155502962-26bcd8aa-5ed3-4b5e-ac16-5300dabb9f42.gif)
 
