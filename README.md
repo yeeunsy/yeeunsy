@@ -55,7 +55,9 @@
 
 # Experience / Project.
 
-Use.{<br/>
+간단한 2D 게임 제작
+
+Use {<br/>
 ㅤUnity<br/>
 ㅤBolt4<br/>
 ㅤvs studio<br/>
