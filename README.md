@@ -56,10 +56,10 @@
 # Experience / Project.
 
 Use.{<br/>
- Unity<br/>
- Bolt4<br/>
- vs studio<br/>
- c#<br/>
+ㅤUnity<br/>
+ㅤBolt4<br/>
+ㅤvs studio<br/>
+ㅤc#<br/>
 }<br/>
 
 ![resumeset1-_online-video-cutter com_](https://user-images.githubusercontent.com/90146746/155502962-26bcd8aa-5ed3-4b5e-ac16-5300dabb9f42.gif)
