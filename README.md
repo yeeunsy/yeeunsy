@@ -52,5 +52,19 @@
 ## 형상 관리
 - github <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+---
+
+# Work / Other Experience.
+
+Use.{
+  Unity
+  Bolt4
+  vs studio
+  c#
+}
+
+![image](https://user-images.githubusercontent.com/90146746/155502648-bc0a98c1-d0c1-4760-a474-32b48d9cfd92.png)
+![resumeset1-_online-video-cutter com_](https://user-images.githubusercontent.com/90146746/155502962-26bcd8aa-5ed3-4b5e-ac16-5300dabb9f42.gif)
+
 
 <img width="1240px" height="auto" align="center" src="https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90">
