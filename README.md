@@ -3,7 +3,7 @@
 ## 소개 Contact.
 
 - 이름 : 이예은
-- Email : theleilaalice@gmail.co
+- Email : theleilaalice@gmail.com
 
 <a href="https://github.com/yeeunsy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yeeunsy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="yeeunsy's github stats" /></a>
 <a href="https://github.com/yeeunsy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeeunsy&layout=compact&theme=buefy&hide_border=true" /></a>
@@ -11,7 +11,7 @@
 <br />
 
 ```
-
+정보처리기능사 실기 준비 중
 ```
 
 ---
