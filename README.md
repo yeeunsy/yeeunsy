@@ -33,7 +33,8 @@
   <br>
   
   <img src="https://img.shields.io/badge/react-64b5f6?style=for-the-badge&logo=react&logoColor=white"> 
-  <img src="https://img.shields.io/badge/graphql-e91e63?style=for-the-badge&logo=graphql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/graphql-e91e63?style=for-the-badge&logo=graphql&logoColor=white">
+  <img src="https://img.shields.io/badge/redux-8e24aa?style=for-the-badge&logo=redux&logoColor=white">
   <br><br>
   
   ![Stat](https://github-readme-stats.vercel.app/api?username=yeeunsy&show_icons=true&hide_border=true&count_private=true&theme=react)
