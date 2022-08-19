@@ -5,8 +5,8 @@
 - 이름 : 이예은
 - Email : theleilaalice@gmail.com
 
-<div align=center><div/>
-<a href="https://github.com/yeeunsy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeeunsy&layout=compact&theme=buefy&hide_border=true" /></a>
+<div align=center>
+<a href="https://github.com/yeeunsy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeeunsy&layout=compact&theme=buefy&hide_border=true" /></a><div/>
 <br />
 
 ```
