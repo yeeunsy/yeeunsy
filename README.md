@@ -5,8 +5,6 @@
 - 이름 : 이예은
 - Email : theleilaalice@gmail.com
 
-<br />
-
 ```
 현재 엠아이테크 재직 중
 ```
