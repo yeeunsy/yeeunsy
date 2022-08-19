@@ -28,7 +28,7 @@
   <br>
   
   <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white"> 
-  <img src="https://img.shields.io/badge/c++-8e24aa?style=for-the-badge&logo=c++&logoColor=white"> 
+  <img src="https://img.shields.io/badge/c`#`++-8e24aa?style=for-the-badge&logo=c`#`&logoColor=white"> 
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <br>
   
