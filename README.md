@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <br>
   
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+  <img src="https://img.shields.io/badge/react-64b5f6?style=for-the-badge&logo=react&logoColor=white"> 
   <img src="https://img.shields.io/badge/graphql-e91e63?style=for-the-badge&logo=graphql&logoColor=white"> 
   <br><br>
   
