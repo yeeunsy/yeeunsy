@@ -8,7 +8,7 @@
 - Email : theleilaalice@gmail.com
 
 ```
-현재 엠아이테크 재직 중
+☪ 현재 엠아이테크 재직 중
 ```
 
 <div align=center><h1>📚 STACKS 📚</h1></div>
