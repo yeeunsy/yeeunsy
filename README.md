@@ -1,6 +1,6 @@
 <!-- <img width="1240px" height="auto" align="center" src="https://capsule-render.vercel.app/api?type=waving&text=Yeeunsy&color=gradient&height=290&section=header&fontSize=60"> -->
 
-<img width="1240px" height="auto" align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&fontSize=60">
+<img width="1240px" height="auto" align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&fontSize=60">
 
 ## 소개 Contact.
 
@@ -11,7 +11,7 @@
 현재 엠아이테크 재직 중
 ```
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h1>📚 STACKS 📚</h1></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
