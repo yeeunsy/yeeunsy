@@ -1,4 +1,4 @@
-<img width="1240px" height="auto" align="center" src="https://capsule-render.vercel.app/api?type=waving&text=Suu3&color=gradient&height=150&section=header&fontSize=90">
+<img width="1240px" height="auto" align="center" src="https://capsule-render.vercel.app/api?type=waving&text=Yeeunsy&color=gradient&height=180&section=header&fontSize=60">
 
 ## 소개 Contact.
 
