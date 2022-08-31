@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/redux-8e24aa?style=for-the-badge&logo=redux&logoColor=white">
   <br><br>
   
-  ![Stat](https://github-readme-stats.vercel.app/api?username=yeeunsy&show_icons=true&hide_border=true&count_private=true&theme=react)
+  ![Stat](https://github-readme-stats.vercel.app/api?username=yeeunsy&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple)
   
 <a href="https://github.com/yeeunsy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeeunsy&layout=compact&theme=buefy&hide_border=true" /></a>
   
