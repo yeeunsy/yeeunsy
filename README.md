@@ -6,7 +6,7 @@
 
 - 이름 : 이예은
 - Email : theleilaalice@gmail.com
-<a href="https://discord.com/users/81440962496172032" target="_blank">
+<a href="https://discord.com/users/539299311079391232" target="_blank">
 	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/81440962496172032?bg=1f1f1f&borderRadius=5px">
 </a>
 <a href="https://wakatime.com/@yeeunsy" target="_blank">
