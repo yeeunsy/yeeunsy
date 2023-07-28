@@ -19,7 +19,7 @@
   
   <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-232F3E?style=for-the-badge&logo=MySQL&logoColor=white"> 
-  <img src="https://img.shields.io/badge/csharp-181717?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/c#-181717?style=for-the-badge&logo=csharp&logoColor=white">
   <br>
   
   <img src="https://img.shields.io/badge/react-64b5f6?style=for-the-badge&logo=react&logoColor=white"> 
