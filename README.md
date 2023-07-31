@@ -30,6 +30,8 @@
   ![Stat](https://github-readme-stats.vercel.app/api?username=yeeunsy&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple)
   
 <a href="https://github.com/yeeunsy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeeunsy&layout=compact&theme=buefy&hide_border=true" /></a>
+
+<a href="https://github.com/yeeunsy"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeeunsy&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
   
 </div>
 
