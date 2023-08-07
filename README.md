@@ -1,4 +1,4 @@
-<img width="1240px" height="auto" align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=290&section=header&fontSize=60">
+<img width="1240px" height="300px" align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=290&section=header&fontSize=60">
 
 ## 소개 Contact.
 
