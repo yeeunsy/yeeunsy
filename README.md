@@ -36,18 +36,3 @@
 </div>
 
 # Experience / Project.
-
-### 간단한 2D 게임 제작
-
- Unity<br/>
- Bolt4<br/>
- Visual studio<br/>
- C#<br/>
-
-### 젤리 키우기
-![resumeset1-_online-video-cutter com_](https://user-images.githubusercontent.com/90146746/155502962-26bcd8aa-5ed3-4b5e-ac16-5300dabb9f42.gif)
-<br/>
-### 러닝 게임
-![resumesetting2](https://user-images.githubusercontent.com/90146746/155507823-752ec491-a30e-4b49-a21e-25e80ee11c4e.gif)
-
-<img width="1240px" height="auto" align="center" src="https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90">
