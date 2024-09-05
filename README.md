@@ -16,12 +16,13 @@
   <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-232F3E?style=for-the-badge&logo=MySQL&logoColor=white"> 
   <img src="https://img.shields.io/badge/c sharp-181717?style=for-the-badge&logo=csharp&logoColor=white">
-  <br><br>
+    <br>
 
 # 공부 중 (❁´◡`❁)
 <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/Mongoose-ffffff?style=for-the-badge&logo=mongodb&logoColor=#47A248">
+<br><br>
 
  ![Stat](https://github-readme-stats.vercel.app/api?username=yeeunsy&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple)
   
