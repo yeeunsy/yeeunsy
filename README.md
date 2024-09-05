@@ -17,16 +17,17 @@
   <img src="https://img.shields.io/badge/mysql-232F3E?style=for-the-badge&logo=MySQL&logoColor=white"> 
   <img src="https://img.shields.io/badge/c sharp-181717?style=for-the-badge&logo=csharp&logoColor=white">
   <br><br>
-  
-  ![Stat](https://github-readme-stats.vercel.app/api?username=yeeunsy&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple)
-  
-<a href="https://github.com/yeeunsy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeeunsy&layout=compact&theme=buefy&hide_border=true" /></a>
-
-<a href="https://github.com/yeeunsy"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeeunsy&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
-
 
 # 공부 중 (❁´◡`❁)
 <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/Mongoose-ffffff?style=for-the-badge&logo=mongodb&logoColor=#47A248">
+
+ ![Stat](https://github-readme-stats.vercel.app/api?username=yeeunsy&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple)
+  
+<a href="https://github.com/yeeunsy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeeunsy&layout=compact&theme=buefy&hide_border=true" /></a>
+
+<a href="https://github.com/yeeunsy"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeeunsy&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
+
 </div>
+
