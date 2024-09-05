@@ -27,4 +27,4 @@
 </div>
 
 # 공부 중 (❁´◡`❁)
-<img src = "https://img.shields.io/badge/-node.js-black?style=flat&logo=node%2B%2B" style="height : auto; margin-left : 2px; margin-right : 2px;"/>
+<img src = "https://img.shields.io/badge/-node.js-black?style=flat&logo=node.js%2B%2B" style="height : auto; margin-left : 2px; margin-right : 2px;"/>
