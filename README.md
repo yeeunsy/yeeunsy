@@ -27,4 +27,5 @@
 </div>
 
 # 공부 중 (❁´◡`❁)
-<img src="https://img.shields.io/badge/node.js-181717?style=for-the-badge&logo=node.js&logoColor=#5FA04E">
+<img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=html5&logoColor=white">
