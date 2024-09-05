@@ -27,6 +27,6 @@
 
 # 공부 중 (❁´◡`❁)
 <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/Mongoose-ffffff?style=for-the-badge&logo=mongodb&logoColor=#47A248">
 </div>
