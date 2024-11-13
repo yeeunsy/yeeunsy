@@ -15,17 +15,14 @@
   <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-232F3E?style=for-the-badge&logo=MySQL&logoColor=white"> 
   <img src="https://img.shields.io/badge/c sharp-181717?style=for-the-badge&logo=csharp&logoColor=white">
+  <br>
   <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
   <br>
   
 </p>
   <br><br>
-  
-<h3 align=center> ✏️ 공부 중 (❁´◡`❁) </h3>
-<p align=center> 
-<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/Mongoose-ffffff?style=for-the-badge&logo=mongodb&logoColor=#47A248">
-<img src="https://img.shields.io/badge/cs-000000?style=for-the-badge&logo=cs&logoColor=white">
+
 <br><br>
 <a href="https://github.com/yeeunsy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeeunsy&layout=compact&theme=buefy&hide_border=true" /></a>
   
