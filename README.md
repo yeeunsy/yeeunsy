@@ -20,8 +20,8 @@
   <img src="https://img.shields.io/badge/c sharp-181717?style=for-the-badge&logo=csharp&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Docker-5380c4?style=for-the-badge&logo=Docker&logoColor=white">
-<!--   <img src="https://img.shields.io/badge/redis-bb4840?style=for-the-badge&logo=Redis&logoColor=white">
-  <img src="https://img.shields.io/badge/kibana-a38dd8?style=for-the-badge&logo=kibana&logoColor=white"> -->
+  <img src="https://img.shields.io/badge/Docker-compose-bb4840?style=for-the-badge&logo=Redis&logoColor=white">
+  <img src="https://img.shields.io/badge/aws-ec2-a38dd8?style=for-the-badge&logo=kibana&logoColor=white">
   <br>
   
 </p>
