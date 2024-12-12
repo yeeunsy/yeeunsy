@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/c sharp-181717?style=for-the-badge&logo=csharp&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Docker-5380c4?style=for-the-badge&logo=Docker&logoColor=white">
-  <img src="https://img.shields.io/badge/awsec2-a38dd8?style=for-the-badge&logo=amazonec2&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-a38dd8?style=for-the-badge&logo=amazon&logoColor=white">
   <br>
   
 </p>
